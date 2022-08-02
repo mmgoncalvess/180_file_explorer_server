@@ -1,0 +1,5 @@
+com\example\mock\NetworkConnection.class
+com\example\ServerTest.class
+com\example\FileExplorerTest.class
+com\example\OngoingDirectoryTest.class
+com\example\mock\MockClient.class
